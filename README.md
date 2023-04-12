@@ -62,3 +62,11 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [Astro's documentation](https://github.com/withastro/astro) or jump into Astro's [Discord server](https://astro.build/chat).
+
+## Upgrade to Astro@V2
+
+```bash
+npm install astro@latest
+npm install @astrojs/mdx@latest
+npm install @astrojs/svelte@latest
+```
